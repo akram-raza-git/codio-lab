@@ -1,4 +1,4 @@
-- 👋 Hi, It's codio lab.
+- 👋 Hi, It's Akram raza.
 - 👀 I'm interested in Reactjs, Nextjs, React-native Expressjs, Mongodb, MySQL, Graphql, Jest, Typescript, PWA, Web Accessibility, Application security and performance ...etc
 - 🌱 I’m currently learning mircro services and polyrepo implementation.
 - 💞️ I’m looking to collaborate on mern stack development. 
